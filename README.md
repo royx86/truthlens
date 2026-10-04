@@ -1,7 +1,7 @@
 # TruthLens 🔍 — AI-Powered Social Media Fact-Checking Platform
 
 > **An evidence-backed, multi-modal verification platform that automatically analyzes claims from social media posts, searches authoritative sources, and synthesizes nuanced veracity reports.**
-
+## Live: https://truthlens-production-d3a8.up.railway.app/
 ---
 
 ## 🌟 Key Features
